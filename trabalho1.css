@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(255, 91, 49);
+  color: rgb(255, 255, 255);
+  height: 120vh;
+}
+
+article {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15vh; a
+  padding-bottom: 10vh;
+
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 200;
+  font-size: 4.5em
+}
+
+span {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1em
+
+}
+
+p {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1.5em
+}
+
+ul {
+  list-style-type: circle;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-size: 1.5em
+   color: rgb( 255, 255, 255);
+}
+
+h2 {
+  color: rgb(255, 91, 49);
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 300;
+  font-size: 3em
+}
+footer {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1em
+}
+
+#learn-css, #css-libraries, #debug, #read, #name, #practice, #final {
+  background-color: rgb(255, 255, 255);
+  background-size: contain;
+  color: rgb(255, 91, 49);
+}
